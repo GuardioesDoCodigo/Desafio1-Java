@@ -6,10 +6,15 @@ A fórmula da média ponderada é conforme o exemplo abaixo:
 ((N1 * P1) + (N2 * P2) + (N3 * P3)) / (P1 + P2 + P3)
 */
 
+
+//Importação que permite usar a classe Scanner do pacote java.util
 import java.util.Scanner;
 
+//Declara a classe que se chama Exercicio30, na verdade
 public class Exercicio29 {
+    //Declara o método main. É o ponto de entrada principal para a execução de um programa Java.
     public static void main(String[] args) {
+        //Cria uma instância da classe Scanner que é usada para obter entrada do usuário através do console.
         Scanner entrada = new Scanner(System.in);
 
         /*Estabelece o número de notas que será lido*/
