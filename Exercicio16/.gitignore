@@ -1,0 +1,8 @@
+# Compiled class file
+*.class
+
+# Pasta do vscode
+.vscode/
+
+# Libraries
+lib/
