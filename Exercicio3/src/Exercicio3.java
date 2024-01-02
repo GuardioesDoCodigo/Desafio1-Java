@@ -20,7 +20,8 @@ public class Exercicio3 {
                     c++;
                 }
             }
-            //se uma string apareceu mais de uma vez no array, a variável que grava a quantidade de vezes que a string mais frequente atualiza com o conteúdo da variável c (que conta tantas vezes uma string apareceu)
+            //se uma string apareceu mais de uma vez no array, a variável que grava a quantidade de vezes que a string mais frequente atualiza com o conteúdo da variável c 
+            //(que conta tantas vezes uma string apareceu)
             if(c>max_c){
                 max_c=c;
                 maisFrequente=lista.get(i);
